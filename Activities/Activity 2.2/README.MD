@@ -1,1 +1,1 @@
-NOTE: I also merged branch "development" into "master" for extra credit
+NOTE: I also merged branch "development" into "master" for extra credit 
